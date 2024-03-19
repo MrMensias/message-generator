@@ -1,19 +1,19 @@
-#Message Generator
+# Message Generator
 
 Hey everyone. This is a pretty basic 'Message Generator' Project, which is part of CodeCademy Career Path.
 
 
-##Functionality
+## Functionality
     
 Press the button and it automatically generate a random message.
 
 
-##Technologies
+## Technologies
 
 +HTML
 +CSS
 +Javascript
 
-##Collaborators
+## Collaborators
 
 1. Carlos Mensias
